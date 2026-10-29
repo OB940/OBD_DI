@@ -1,0 +1,13 @@
+ESTA ES LA PLANTILLA DE LA CLASE PROGRAMA DE C#,
+LO COPIO Y LO PEGO PORQUE ME DA PEREZA TENER QUE
+ESCRIBIRLO CADA VEZ QUE CREO UN SCRIPT NUEVO.
+
+using System;
+
+class Program
+{
+    static void Main(String[] args)
+    {
+    
+    }
+}
